@@ -422,6 +422,7 @@
       "scope": "variable.other.constant.property.js, variable.other.property.js",
       "settings": {
         "foreground": "#2ee2fa"
+      }
     },
     {
       "name": "Color",
